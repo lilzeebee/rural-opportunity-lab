@@ -1,0 +1,3 @@
+# Keeps search engines out while the site is in preview. Delete this file at launch.
+User-agent: *
+Disallow: /
